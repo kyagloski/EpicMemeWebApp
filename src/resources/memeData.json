@@ -1,0 +1,314 @@
+[
+  {
+    "name": "lit crazy epic meme",
+    "id": 1,
+    "likeAmt": "0",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic2",
+    "id": 2,
+    "likeAmt": "1",
+    "imageDir": "/tenor.gif",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic3",
+    "id": 3,
+    "likeAmt": "2",
+    "imageDir": "/1.jpg",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic4",
+    "id": 4,
+    "likeAmt": "3",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic5",
+    "id": 5,
+    "likeAmt": "4",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic6",
+    "id": 6,
+    "likeAmt": "5",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic7",
+    "id": 7,
+    "likeAmt": "6",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic8",
+    "id": 8,
+    "likeAmt": "7",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic9",
+    "id": 9,
+    "likeAmt": "8",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic10",
+    "id": 10,
+    "likeAmt": "9",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic11",
+    "id": 11,
+    "likeAmt": "10",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic12",
+    "id": 12,
+    "likeAmt": "11",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic13",
+    "id": 13,
+    "likeAmt": "12",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic14",
+    "id": 14,
+    "likeAmt": "13",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic15",
+    "id": 15,
+    "likeAmt": "14",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic16",
+    "id": 16,
+    "likeAmt": "15",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic17",
+    "id": 17,
+    "likeAmt": "16",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic18",
+    "id": 18,
+    "likeAmt": "17",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic19",
+    "id": 19,
+    "likeAmt": "18",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic20",
+    "id": 20,
+    "likeAmt": "19",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic21",
+    "id": 21,
+    "likeAmt": "20",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic4",
+    "id": 4,
+    "likeAmt": "3",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic5",
+    "id": 5,
+    "likeAmt": "4",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic6",
+    "id": 6,
+    "likeAmt": "5",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic7",
+    "id": 7,
+    "likeAmt": "6",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic8",
+    "id": 8,
+    "likeAmt": "7",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic9",
+    "id": 9,
+    "likeAmt": "8",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic10",
+    "id": 10,
+    "likeAmt": "9",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic11",
+    "id": 11,
+    "likeAmt": "10",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic12",
+    "id": 12,
+    "likeAmt": "11",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic13",
+    "id": 13,
+    "likeAmt": "12",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic14",
+    "id": 14,
+    "likeAmt": "13",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic15",
+    "id": 15,
+    "likeAmt": "14",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic16",
+    "id": 16,
+    "likeAmt": "15",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic17",
+    "id": 17,
+    "likeAmt": "16",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic18",
+    "id": 18,
+    "likeAmt": "17",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic19",
+    "id": 19,
+    "likeAmt": "18",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic20",
+    "id": 20,
+    "likeAmt": "19",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  },
+  {
+    "name": "epic21",
+    "id": 21,
+    "likeAmt": "20",
+    "imageDir": "/0.png",
+    "userName": "dphily420x",
+    "tags": ["cringe"]
+  }
+]

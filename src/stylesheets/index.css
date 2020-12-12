@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#nav {
+  display: grid;
+  background-color: #b69cff;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-top: 10px;
+  padding: 10px;
+  width: 100vw;
+}
+
+#signInButton {
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  color: white;
+  padding: 4px;
+  text-align: center;
+  margin: 8px -4vw;
+  margin-top: 15px;
+  width: 150px;
+  position: absolute;
+}
+
+#buttons {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 0.01fr 1fr 0.01fr 1fr;
+  font-size: 24px;
+  align-content: center;
+}
+
+#search {
+  display: grid;
+  align-self: center;
+  grid-template-columns: 0.8fr 2fr;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+#searchContainer {
+  text-align: center;
+  align-content: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .egg {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.aboutBG {
+  background-image: url("../resources/tenor.gif");
+}
+
+#memeContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 220px);
+  grid-gap: 10px;
+  justify-content: center;
+}
+
+.meme {
+  height: 280px;
+  width: 220px;
+}
+
+.button {
+  color: #3e0054;
+}
+
+.button:hover {
+  color: red;
+}
