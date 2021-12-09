@@ -1,4 +1,4 @@
-Epic MEME
+Epic-Meme-Web-App
 - school project for rit class swen 444 UI/UX
 - epic meme is an online meme browser and editor that allows users
   to express themselves with their own memes to a broad community
